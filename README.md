@@ -10,7 +10,7 @@ The python pandas and matplotlib libraries were used to analyze the data. With t
 
 ## Findings for Rural, Suburban, and Urban Areas
 
-![Fare Summary](Resources/Summary_DataFramey.png)
+![Fare Summary](Resources/Summary_DataFrame.png)
 ![Fare Chart](Resources/PyBer_fare_summary.png)
 
 ### Rural
